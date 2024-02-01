@@ -38,7 +38,7 @@
     "babel-jest": "^28.0.3",
     "clean-webpack-plugin": "4.0.0",
     "copy-webpack-plugin": "^5.1.2",
-    "husky": "^8.0.1",
+    "husky": "^9.0.10",
     "jest": "^27.4.0",
     "jest-mock": "^29.1.2",
     "lint-staged": "^13.0.0",
